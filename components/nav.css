@@ -1,0 +1,11 @@
+.bg {
+    background-color: rgb(12, 5, 71) !important;
+}
+
+.text-white {
+    color: white !important;
+    font-size: 22px;
+}
+.nav-link {
+    cursor: pointer;
+}
