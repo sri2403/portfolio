@@ -10,7 +10,7 @@ const Projects = () => {
         <section id="projects" className="container-fluid d-flex flex-column justify-content-center align-items-center" style={{ padding: '20px' }}>
             <div className="text-center">
                 <h2>My Projects</h2>
-                <div className="border rounded p-3 mb-4" style={{ maxWidth: '800px' }}>
+                <div className="border rounded p-3 mb-4 bg-light" style={{ maxWidth: '800px' }}>
                     <img src={img1} className="img-fluid mb-3" alt="HR Management Dashboard" />
                     <div className="mb-3">
                         <h3>HR Management Dashboard</h3>
@@ -21,7 +21,7 @@ const Projects = () => {
                         <a href='https://hrmd-frontend-sri2403.netlify.app/' target='_blank' rel='noopener noreferrer' className="btn btn-primary">Demo</a>
                     </div>
                 </div>
-                <div className="border rounded p-3 mb-4" style={{ maxWidth: '800px' }}>
+                <div className="border rounded p-3 mb-4 bg-light" style={{ maxWidth: '800px' }}>
                     <img src={img2} className="img-fluid mb-3" alt="Redux Shopping Cart" />
                     <div className="mb-3">
                         <h3>Redux Shopping Cart</h3>
@@ -32,7 +32,7 @@ const Projects = () => {
                         <a href='https://redux-task-sri2403.netlify.app/' target='_blank' rel='noopener noreferrer' className="btn btn-primary">Demo</a>
                     </div>
                 </div>
-                <div className="border rounded p-3 mb-4" style={{ maxWidth: '800px' }}>
+                <div className="border rounded p-3 mb-4 bg-light" style={{ maxWidth: '800px' }}>
                     <img src={img3} className="img-fluid mb-3" alt="Shopping Cart using Context API" />
                     <div className="mb-3">
                         <h3>Shopping Cart - Using Context API</h3>
@@ -43,7 +43,7 @@ const Projects = () => {
                         <a href='https://contextapi-task-sri2403.netlify.app/' target='_blank' rel='noopener noreferrer' className="btn btn-primary">Demo</a>
                     </div>
                 </div>
-                <div className="border rounded p-3 mb-4" style={{ maxWidth: '800px' }}>
+                <div className="border rounded p-3 mb-4 bg-light" style={{ maxWidth: '800px' }}>
                     <img src={img4} className="img-fluid mb-3" alt="Todo App" />
                     <div className="mb-3">
                         <h3>Todo App</h3>
@@ -54,7 +54,7 @@ const Projects = () => {
                         <a href='https://sri2403-todo-app.netlify.app/' target='_blank' rel='noopener noreferrer' className="btn btn-primary">Demo</a>
                     </div>
                 </div>
-                <div className="border rounded p-3 mb-4" style={{ maxWidth: '800px' }}>
+                <div className="border rounded p-3 mb-4 bg-light" style={{ maxWidth: '800px' }}>
                     <img src={img5} className="img-fluid mb-3" alt="Weather API" />
                     <div className="mb-3">
                         <h3>Weather API</h3>
